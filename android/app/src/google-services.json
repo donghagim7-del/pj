@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957532431020",
+    "project_id": "smart-multitap",
+    "storage_bucket": "smart-multitap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957532431020:android:2932a2c1364cc9e116f509",
+        "android_client_info": {
+          "package_name": "com.example.pj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu95rogeuLniU8RxrDkBGuyV2FnO-PZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
